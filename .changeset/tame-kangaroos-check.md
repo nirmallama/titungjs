@@ -1,0 +1,5 @@
+---
+"titungjs": patch
+---
+
+Fix typo
